@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on conditional text generation, conversational agents, deep learning objective functions.
+- 🌱 I’m currently learning more about representation learning, explainable AI, and some computer vision.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pascalson&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
